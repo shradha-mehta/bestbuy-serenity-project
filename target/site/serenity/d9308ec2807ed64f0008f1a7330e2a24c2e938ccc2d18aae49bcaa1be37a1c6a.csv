@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product test with tags","This test will delete the product information and verify the product is deleted ","SUCCESS","2020-05-26T18:13:21.867+01:00[Europe/London]","0.0","0.28"

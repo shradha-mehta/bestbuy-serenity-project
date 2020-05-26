@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product test with tags","This test will create a new products and verify its generated","SUCCESS","2020-05-26T18:13:13.574+01:00[Europe/London]","0.0","4.53"
+"Product test with tags","This test will get the product information by ID","SUCCESS","2020-05-26T18:13:18.474+01:00[Europe/London]","0.0","2.88"
+"Product test with tags","This test will update the product information and verify the updated information","SUCCESS","2020-05-26T18:13:21.358+01:00[Europe/London]","0.0","0.51"
+"Product test with tags","This test will delete the product information and verify the product is deleted ","SUCCESS","2020-05-26T18:13:21.867+01:00[Europe/London]","0.0","0.28"
+"Product test with tags","This test will get all product information ","SUCCESS","2020-05-26T18:13:22.152+01:00[Europe/London]","0.0","1.74"
+"Product test with tags","This test will get all product information ","SUCCESS","2020-05-26T18:13:22.152+01:00[Europe/London]","0.0","1.74"

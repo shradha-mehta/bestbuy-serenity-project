@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Store test with tags","This test will Create a new Store","SUCCESS","2020-05-26T18:13:26.151+01:00[Europe/London]","0.0","0.24"
+"Store test with tags","This test will get store information by ID","SUCCESS","2020-05-26T18:13:26.397+01:00[Europe/London]","0.0","0.2"
+"Store test with tags","This test will update the store information and verify the updated information","SUCCESS","2020-05-26T18:13:26.605+01:00[Europe/London]","0.0","0.3"
+"Store test with tags","This test will delete the store and verify the store is deleted ","SUCCESS","2020-05-26T18:13:26.906+01:00[Europe/London]","0.0","0.25"
+"Store test with tags","This test will get all product information ","SUCCESS","2020-05-26T18:13:27.155+01:00[Europe/London]","0.0","0.37"
+"Store test with tags","This test will get all product information ","SUCCESS","2020-05-26T18:13:27.155+01:00[Europe/London]","0.0","0.37"

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bestbuy.testsuite.ProductTestWithTags
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.73 sec - in com.bestbuy.testsuite.ProductTestWithTags
